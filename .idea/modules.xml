@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/digitalinnovation.one.experts.product-catalog.iml" filepath="$PROJECT_DIR$/.idea/modules/digitalinnovation.one.experts.product-catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/digitalinnovation.one.experts.product-catalog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/digitalinnovation.one.experts.product-catalog.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/digitalinnovation.one.experts.product-catalog.test.iml" filepath="$PROJECT_DIR$/.idea/modules/digitalinnovation.one.experts.product-catalog.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.digitalinnovation.one.experts.product-catalog.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.digitalinnovation.one.experts.product-catalog.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-catalog.digitalinnovation.one.experts.product-catalog.test.iml" filepath="$PROJECT_DIR$/.idea/modules/product-catalog.digitalinnovation.one.experts.product-catalog.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1792445531/product-catalog.product-catalog.iml" filepath="$PROJECT_DIR$/.idea/modules/1792445531/product-catalog.product-catalog.iml" />
+    </modules>
+  </component>
+</project>
